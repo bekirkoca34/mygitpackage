@@ -14,7 +14,7 @@ public class MyGitClass {
 		System.out.println("uzak sunucudaki kodum");
 		
 		
-		
+		System.out.println("uzak sunucudakison version");//
 
 	}
 
